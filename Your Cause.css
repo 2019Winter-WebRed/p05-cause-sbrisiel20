@@ -1,0 +1,74 @@
+/*
+* Sara Brisiel 
+* Due Date 
+* Project Name and Description 
+*/
+
+* { margin:0;
+    padding:0;
+} 
+/* Body attributes her */ 
+body { 
+    width: 80%;
+    margin: auto;
+    background-color: lightblue;
+    padding:5%;
+    margin-bottom: 5%;
+} 
+
+header{
+    text-align:center;
+    border-bottom: 2px solid lightyellow;
+}
+#handcuffs{
+    margin:20px;
+    float:left;
+}
+img{width: 300px; height: 300px;}
+
+ul {padding:15px;}
+
+.nofloat { clear: both;}
+
+#poster {
+    margin:2px;
+    float:left;
+    width:200px; height:200px;
+}
+#statistics {
+    margin:2px;
+    float:left;
+    width:200px;height:200px; }
+
+#victims {
+    margin:2px;
+    float:left;
+    width:200px; height:200px;
+    }
+
+#morestatistics{
+    margin:2px;
+    width:200px; height:200px;}
+
+#hotline{ 
+    margin:20px;
+    float: right;
+}
+#poster2{
+    margin:2px;
+    float:left;
+width:200px; height:200px;
+}
+
+#meetme{
+    margin:20px;
+    float:right;
+}
+footer{
+    clear:both;
+}
+main{
+    padding:inherit;
+}
+h1{font-family:serif;}
+h3{font-family:sans-serif;}
